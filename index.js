@@ -91,7 +91,7 @@ async function updateGist(stats) {
     return request('PATCH /gists/:gist_id', {
         files: {
             [filename]: {
-                filename: `My GitHub Stats 😎`,
+                filename: `My GitHub ✨`,
                 content: gistContent,
             },
         },
