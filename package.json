@@ -4,7 +4,7 @@
     "description": "Update a gist to contain your GitHub stats",
     "author": "bokub",
     "license": "MIT",
-    "repository": "bokub/github-stats-box",
+    "repository": "ani2689/github-stats-box",
     "main": "index.js",
     "scripts": {
         "start": "node index.js",
